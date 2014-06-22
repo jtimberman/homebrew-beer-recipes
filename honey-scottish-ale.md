@@ -1,10 +1,10 @@
 This one is a Scotch/Scottish Ale style, with honey.
 
-8 pounds light malt extract syrup
-3 pounds raw, natural honey
-1 pound Crystal 40 grain
-2 oz Fuggles hops
-2 Edinburgh Ale yeast
+* 8 pounds light malt extract syrup
+* 3 pounds raw, natural honey
+* 1 pound Crystal 40 grain
+* 2 oz Fuggles hops
+* 2 Edinburgh Ale yeast
 
 Typical extract procedure:
 
